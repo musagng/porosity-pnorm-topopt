@@ -130,6 +130,11 @@ Final Optimized Domains
 | --------------------------------- | --------------------------------- |
 | ![](results/p12_final_domain.png) | ![](results/p16_final_domain.png) |
 
+> Note: The optimization domains may contain isolated material islands.
+> These are intentionally preserved to reflect the raw optimization outcome.
+> Manufacturable designs are obtained through post-processing and CAD reconstruction,
+> as demonstrated in the CAD and STL outputs.
+
 ## 📈 Compliance Comparison
 
 The compliance history illustrates the convergence behavior and stiffness performance
